@@ -1,9 +1,15 @@
 # ReasonReactNavigation AuthFlow
 
 
-<img src="./images/SignIn.png" alt="signIn" width="200"/>
-<img src="./images/HomeScreen.png" alt="homeScreen" width="200"/>
-<img src="./images/OtherScreen.png" alt="otherScreen" width="200"/>
+<kbd>
+<img src="./images/SignIn.png" alt="signIn" width="200"/></kbd>
+
+<kbd>
+<img src="./images/HomeScreen.png" alt="homeScreen" width="200"/></kbd>
+
+<kbd>
+<img src="./images/OtherScreen.png" alt="otherScreen" width="200"/></kbd>
+
 
 ## Motivation
 
