@@ -1,5 +1,10 @@
 # ReasonReactNavigation AuthFlow
 
+
+<img src="./images/SignIn.png" alt="signIn" width="200"/>
+<img src="./images/HomeScreen.png" alt="homeScreen" width="200"/>
+<img src="./images/OtherScreen.png" alt="otherScreen" width="200"/>
+
 ## Motivation
 
 Replicate the `react-navigation` AuthFlow Demo in ReasonML. The demo is here: <https://reactnavigation.org/docs/en/auth-flow.html>. I needed to understand how to get some basic `switch` and `stack` navigation working together in `ReasonML`. The binding for navigation are `WIP` at the excellent [reason-react-native](https://github.com/reasonml-community/reason-react-native) repo. More broadly, learning this on the fly takes time and to reduce the scope of what I have to learn, I decided I would try to limit myself to using react-native/react-native-web, in #ReasonML, of course, for all ui moving forward. That means I had to get some basic routing worked out for any mobile app version.
@@ -34,4 +39,10 @@ The `Some(() => ());` is what got it mostly done. I continued to get the issue o
 
 ## Running the app
 
-`git clone` the app then run `yarn install`. In another directory, run `yarn start` to start `expo`. Hit `i` in that terminal to open the app in the simulator. Or whatever other of the five ways that can be done.
+`git clone https://github.com/idkjs/react-navigation-authflow-in-reasonml.git`
+`cd react-navigation-authflow-in-reasonml`
+`yarn install`
+
+ In another directory, run `yarn start` to start `expo`. Hit `i` in that terminal to open the app in the simulator. Or whatever other of the five ways that can be done.
+
+You can find me at [@_idkjs](https://twitter.com/_idkjs) with any questions.
