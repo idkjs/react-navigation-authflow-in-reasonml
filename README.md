@@ -45,9 +45,11 @@ The `Some(() => ());` is what got it mostly done. I continued to get the issue o
 
 ## Running the app
 
-`git clone https://github.com/idkjs/react-navigation-authflow-in-reasonml.git`
-`cd react-navigation-authflow-in-reasonml`
-`yarn install`
+```bsh
+git clone https://github.com/idkjs/react-navigation-authflow-in-reasonml.git
+cd react-navigation-authflow-in-reasonml
+yarn install
+```
 
  In another directory, run `yarn start` to start `expo`. Hit `i` in that terminal to open the app in the simulator. Or whatever other of the five ways that can be done.
 
